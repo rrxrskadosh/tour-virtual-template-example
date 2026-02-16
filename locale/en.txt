@@ -3,10 +3,10 @@
 ## Media
 
 ### Imágen
-imlevel_7B1BE608_64DD_A043_41A1_9907BA816E3E.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_0.webp
-imlevel_7B1A0608_64DD_A043_41A7_48C7711C5F7A.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_1.webp
-imlevel_7B1A1609_64DD_A045_41CD_B2045E8E0104.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_2.webp
-imlevel_7B1A3609_64DD_A045_41C4_99F700AE05D8.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_3.webp
+imlevel_70788A4E_67DF_E6AC_41CC_88A10F02DC3D.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_0.webp
+imlevel_70789A4F_67DF_E6AC_4174_7622D46AA656.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_1.webp
+imlevel_7078AA4F_67DF_E6AC_41C6_4C037FECAF6F.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_2.webp
+imlevel_7078BA4F_67DF_E6AC_41D9_0946E3358A1A.url = media/popup_7AE0E684_64C4_604C_41C1_C3596AE8ED1D_en_0_3.webp
 
 ### Popup Imágen
 
@@ -19,48 +19,52 @@ video_79F91540_64C5_E0C3_41D2_386932228994.label = playas
 panorama_72E0990E_619B_12FD_41D4_A159103B4133.label = quintana-mapa
 
 ### Video
-videolevel_472CF6F8_64C5_A1C3_4184_84E6F868A5DA.url = media/video_79F91540_64C5_E0C3_41D2_386932228994_en.m3u8
-videolevel_47BA95D9_64C4_63C5_41D7_4728AB001177.url = media/video_79F91540_64C5_E0C3_41D2_386932228994_en.mp4
-videolevel_472CF6F8_64C5_A1C3_4184_84E6F868A5DA.posterURL = media/video_79F91540_64C5_E0C3_41D2_386932228994_poster_en.jpg
-videolevel_47BA95D9_64C4_63C5_41D7_4728AB001177.posterURL = media/video_79F91540_64C5_E0C3_41D2_386932228994_poster_en.jpg
+videolevel_7FFA5423_67CB_A29B_41AC_A23DEF4541F3.url = media/video_79F91540_64C5_E0C3_41D2_386932228994_en.m3u8
+videolevel_7FC46AB5_67CB_E7FF_41D5_F6FCA3CECE6C.url = media/video_79F91540_64C5_E0C3_41D2_386932228994_en.mp4
+videolevel_7FFA5423_67CB_A29B_41AC_A23DEF4541F3.posterURL = media/video_79F91540_64C5_E0C3_41D2_386932228994_poster_en.jpg
+videolevel_7FC46AB5_67CB_E7FF_41D5_F6FCA3CECE6C.posterURL = media/video_79F91540_64C5_E0C3_41D2_386932228994_poster_en.jpg
 
 ## Skin
 
 ### Botón
 Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
 Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC.label = BACK
-Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.pressedLabel = Bathrooms
-Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.label = Bathrooms
 Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.pressedLabel = Bathrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.label = Bathrooms
 Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.label = Bathrooms
-Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.pressedLabel = Bedrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.pressedLabel = Bathrooms
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581.pressedLabel = Bedrooms
-Button_9E60A789_BF74_CC54_4195_FDD694FEA581.label = Bedrooms
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.label = Bedrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.pressedLabel = Bedrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581.label = Bedrooms
 Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7_mobile.label = Exterior Area
 Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7.label = Exterior Area
 Button_7A0BF4B9_64CD_A044_41D5_C40831065D9E.label = HOTEL #1
+Button_746B4952_675A_A2B4_41D5_6246E6E13B2C.label = HOTEL #1
 Button_7A13E0E3_64CC_61C5_41D2_E159CE4C305C.label = HOTEL #2
+Button_74D5D280_675A_E794_416C_7C4EDED7C360.label = HOTEL #2
+Button_7499AF65_675A_9E9F_41D9_BC8452B9AB48.label = HOTEL #3
 Button_7A3D6CCB_64CC_61C4_41D5_F13BA4BE108B.label = HOTEL #3
+Button_7580096A_6759_A294_4194_323EBBD691CE.label = HOTEL #4
 Button_790BF319_64CD_E044_41BB_16E1257F154B.label = HOTEL #4
 Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2.label = Others
 Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2_mobile.label = Others
 Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = PANORAMA LIST
 Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.label = Punto de interés
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.pressedLabel = Reception
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Reception
-Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
 Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Rooms
 Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69.label = Rooms
 
 ### Texto Multilínea
-HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.97vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
-HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6199999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9699999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.62vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
 HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 4.5px rgba(0,0,0,1);text-align:left;font-size:10.279999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.28vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 4.5px rgba(0,0,0,1);text-align:left;font-size:6.944444444444445vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.94vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
 HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
 HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
 
@@ -69,4 +73,4 @@ HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left
 ### Descripción
 
 ### Título
-tour.name = Caribe Mexicáno
+tour.name = Caribe Mexicano
